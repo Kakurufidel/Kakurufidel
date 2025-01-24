@@ -2,7 +2,9 @@
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I'm developp with python and django
+- 
+- 
 
 <!---
 Kakurufidel/Kakurufidel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
